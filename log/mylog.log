@@ -1,0 +1,51 @@
+Tue Oct 16 09:34:33 CST 2018
+alter stu ID:1613901234  :  add 1613901234 information
+Tue Oct 16 09:34:51 CST 2018
+alter stu ID:1613901234  :  add select class
+Tue Oct 16 09:34:59 CST 2018
+alter stu ID:1613901234  :  delete 1613901234 select class information
+Tue Oct 16 09:35:09 CST 2018
+alter stu ID:1613901111  :  delete 1613901111 information
+Tue Oct 16 09:35:15 CST 2018
+find stu ID:1613901234  :  find 1613901234 information
+Tue Oct 16 09:41:12 CST 2018
+find class ID:1  :  find 1 information
+Tue Oct 16 09:41:15 CST 2018
+find class ID:2  :  find 2 information
+Tue Oct 16 09:41:17 CST 2018
+find class ID:3  :  find 3 information
+Tue Oct 16 09:44:40 CST 2018
+Tue Oct 16 09:44:44 CST 2018
+find class ID:4  :  find 4 information
+Tue Oct 16 09:44:57 CST 2018
+alter class ID:0  :  change field:c information
+Tue Oct 16 09:45:08 CST 2018
+alter class ID:4  :  change field:10 information
+Tue Oct 16 09:45:19 CST 2018
+find class ID:4  :  find 4 information
+Tue Oct 16 09:45:36 CST 2018
+alter class ID:4  :  change field:30 information
+Tue Oct 16 09:45:47 CST 2018
+alter class ID:4  :  delete 4 information
+Tue Oct 16 09:45:50 CST 2018
+find class ID:4  :  find 4 information
+Tue Oct 16 19:36:30 CST 2018
+alter stu ID:1613902019  :  add 1613902019 information
+Tue Oct 16 19:36:37 CST 2018
+find stu ID:1613902019  :  find 1613902019 information
+Tue Oct 16 19:36:51 CST 2018
+alter stu ID:1613902019  :  add select class
+Tue Oct 16 19:36:57 CST 2018
+alter stu ID:1613902019  :  delete 1613902019 select class information
+Tue Oct 16 19:37:03 CST 2018
+find stu ID:1613902019  :  find 1613902019 information
+Tue Oct 16 19:37:12 CST 2018
+find class ID:2  :  find 2 information
+Tue Oct 16 19:37:44 CST 2018
+find class ID:1  :  find 1 information
+Tue Oct 16 19:41:27 CST 2018
+find class ID:1  :  find 1 information
+Tue Oct 16 19:43:09 CST 2018
+find class ID:1  :  find 1 information
+Tue Oct 16 19:51:08 CST 2018
+find stu ID:1613901234  :  find 1613901234 information
